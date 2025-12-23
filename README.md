@@ -1,6 +1,6 @@
 <img align ="right" src ="https://visitor-badge.laobi.icu/badge?page_id=riyaanquadri.riyaanquadri" />
 
-Hello World... ;p I am Riyaan Quadri an Indian Python Developer.<br><br>- 👀 I’m interested in Blockchain Development.<br>- Freelancer.. (P.S. : Not broke)
+Hello World... ;p I am Riyaan Quadri an Indian Python Developer.<br><br>- 👀 I’m interested in Blockchain Development.<br>-
 
 
 ## 🌐 Socials:
